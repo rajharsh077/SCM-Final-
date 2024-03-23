@@ -1,0 +1,105 @@
+body,html{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+#nav1 img{
+    position: relative;
+    top: 7px;
+}
+#nav1{
+    height: 40px;
+    width: 100%;
+    display: flex;
+    gap: 15px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    
+}
+@media(min-width:1400px){
+    #nav1{
+        height: 40px;
+        width: 100%;
+        display: flex;
+        gap: 60px;
+        background-color: black;
+        color: white;
+        padding: 10px;
+        
+    }
+    #nav1 h5{
+        position: relative;
+        right: 70px;
+        bottom: 8px;
+        
+    }
+    
+}
+#nav1 input{
+    width: 500px;
+    position: relative;
+    
+}
+#nav1 svg{
+    background-color: rgb(236, 173, 29);
+    position: relative;
+    right: 43px;
+    
+}
+#n1 svg{
+    position: relative;
+    left: 10px;
+    top: 5px;
+    height: 15px;
+    width: 20px;
+}
+#nav1 h5{
+    position: relative;
+    right: 47px;
+    bottom: 8px;
+    
+}
+#n1 span{
+    opacity: 0.7;
+}
+
+ #in img{
+    height: 27px;
+    width: 30px;
+    position: relative;
+    top: 10px;
+   right: 35px;
+}
+#n2{
+    
+    position: relative;
+    top: 8px;
+    right: 45px;
+    font-size: 12px;
+}
+#n2 b{
+    font-size: 13px;
+}
+#n3 b{
+    font-size: 13px;
+}
+#n2 small{
+    font-size: 12px;
+    opacity: 0.9;
+}
+#n3 small{
+    font-size: 14px;
+    opacity: 0.9;
+}
+
+#n3{
+    position: relative;
+    top: 4px;
+    right: 40px;
+}
+#n4 svg{
+    position: relative;
+    bottom: 33px;
+}
