@@ -122,9 +122,83 @@ body,html{
     font-size: 12px;
     font-weight: 700;
 }
-#bg{
-    height: 100vh;
-    width: 100%;
-    position: fixed;
+#main{
+    position:relative ;
+}
+#im img{
+    position: absolute;
+    top: 105px;
     z-index: -1;
+    
+}
+#container1{
+    position: relative;
+    top: 295px;
+    height: 350px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 30px
+    ;
+    padding: 10px;
+}
+#container1 #box{
+    height: 90%;
+    width: 38%;
+    background-color: white;
+    padding-left: 8px;
+}
+#box img{
+    margin-top: 10px;
+    margin-left: 16px;
+    
+}
+ #box2{
+    height:110px;
+    width: 270px;
+    position: relative;
+    bottom: 2px;
+    margin-bottom: 5px;
+    background-color:white;
+    margin-right: 30px;
+    padding: 3px;   
+}
+
+#box2 button{
+    background-color:rgb(236, 173, 29);
+    color: black;
+    border: none;
+    border-radius: 12px;
+    padding:  3px ;
+    position: relative;
+    top: 20px;
+    width:100% ;
+
+}
+#box2 h3{
+    margin-left: 10px;
+}
+#box a{
+    text-decoration: none;
+    position: relative;
+    top: 36px;
+    left: 10px;
+    color: rgb(78, 78, 235);
+    font-size: small;
+}
+#a{
+    position: relative;
+    bottom: 10px;
+}
+#cont1{
+    position: relative;
+    height: 260px;
+    top: 260px;
+    width: 100%;
+    background-color:  rgb(234, 222, 222) ;
+   
+}
+#last img{
+    margin-right: 28px;
 }
