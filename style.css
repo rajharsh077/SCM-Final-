@@ -201,3 +201,23 @@ body,html{
 #last img{
     margin-right: 28px;
 }
+#container{
+    background-color: rgb(220, 216, 216);
+    position: relative;
+    top: 280px;
+    height: 350px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 30px
+    ;
+    padding: 15px;
+}
+#container #box{
+    height: 90%;
+    width: 38%;
+    background-color: white;
+    padding-left: 8px;
+    
+}
