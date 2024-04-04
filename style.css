@@ -293,3 +293,26 @@ main{
     
     
 }
+#ins{
+    position: relative;
+    top: 260px;
+    height: 130px;
+    width: 100%;
+    background-color: white;
+    border-top: 1px solid #dadada;
+    border-bottom: 2px solid #dadada;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#ins p{
+    font-size: medium;
+}
+#ins button{
+    background-color:rgb(255, 185, 22);
+    width: 220px;
+}
+#ins a{
+    text-decoration: none;
+}
