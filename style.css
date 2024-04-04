@@ -274,3 +274,22 @@ main{
     background-color:  rgb(220, 216, 216) ;
    
 }
+#containerr{
+    height: 350px;
+    width: 100%;
+    position: relative;
+    top: 240px;
+    background-color:  rgb(220, 216, 216);
+    display: flex;
+    justify-content: space-between;
+    padding-left: 13px;
+    padding-top: 15px;
+}
+#containerr #box{
+    height: 90%;
+    width: 23%;
+    background-color: white;
+    padding-left: 8px;
+    
+    
+}
