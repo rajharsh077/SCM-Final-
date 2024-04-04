@@ -225,3 +225,44 @@ main{
     padding-left: 8px;
     
 }
+#shop{
+    background-color: white;
+    width: 100%;
+    position: relative;
+    margin-left: 18px;
+    /* top: 100px; */
+    padding: 2px;
+    
+  
+    
+}
+#shop h3{
+    font-size: 21px;
+    position: relative;
+    bottom: 9px;
+}
+#shop-item{
+    position: relative;
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    
+    
+    
+}
+#shop-item img{
+    position: relative;
+    bottom: 15px;
+}
+#cont{
+    position: relative;
+    height: 260px;
+    top: 260px;
+    width: 100%;
+    background-color:  rgb(220, 216, 216) ;
+}
+#shop-item::-webkit-scrollbar{
+    display: none;
+}
