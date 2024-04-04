@@ -266,3 +266,11 @@ main{
 #shop-item::-webkit-scrollbar{
     display: none;
 }
+#cont1{
+    position: relative;
+    height: 280px;
+    top: 260px;
+    width: 100%;
+    background-color:  rgb(220, 216, 216) ;
+   
+}
