@@ -286,7 +286,7 @@ main{
     padding-top: 15px;
 }
 #containerr #box{
-    height: 90%;
+    height: 93%;
     width: 23%;
     background-color: white;
     padding-left: 8px;
@@ -315,4 +315,20 @@ main{
 }
 #ins a{
     text-decoration: none;
+}
+
+#containerr #prime{
+    width: 47%;
+    height: 330px;
+    position: relative;
+    background-image: url("https://www.justwatch.com/images/backdrop/248806880/s1440/the-family-man");
+    background-size: cover;
+    background-repeat: none;
+    color: white;
+    
+}
+#pri{
+    position: relative;
+    top: 290px;
+    left: 17px;
 }
