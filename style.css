@@ -415,3 +415,19 @@ select {
     display: flex;
     gap: 160px;
 }
+#item6{
+    height: 110px;
+    background-color:#131A22;
+    color: white;
+    position: relative;
+    top:15px ;
+    padding-left: 370px;
+    display: flex;
+    gap: 40px;
+    
+}
+#dd{
+    display: flex;
+    gap: 25px;
+    margin-top: 16px;
+}
