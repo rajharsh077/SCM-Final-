@@ -429,7 +429,7 @@ select {
 #dd{
     display: flex;
     gap: 25px;
-    margin-top: 16px;
+    margin-top: 15px;
 }
 #bold{
     opacity: 0.6;
