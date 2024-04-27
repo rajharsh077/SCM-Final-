@@ -41,13 +41,11 @@ body,html{
     }
     
 }
-
 #nav1 input{
     width: 501px;
     position: relative;
     
 }
-
 #nav1 svg{
     background-color: rgb(236, 173, 29);
     position: relative;
@@ -100,7 +98,6 @@ body,html{
     font-size: 14px;
     opacity: 0.9;
 }
-
 #n3{
     position: relative;
     top: 4px;
@@ -135,7 +132,6 @@ body,html{
     position: relative;
     left:10px;
     bottom: 4px;
-
 }
 main{
     position: relative;
